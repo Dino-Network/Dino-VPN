@@ -6,7 +6,8 @@
    "maxrandom":11,
    "defaultfirstdns":"8.8.8.8",
    "defaultseconddns":"8.8.4.4",
-   "ipinfotokens" : "235b180d8b5c59",
+   "ipinfotokens":"235b180d8b5c59",
+   "Log":"true",
    "update":[
       {
          "version":"1.040",
