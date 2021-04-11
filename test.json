@@ -30,6 +30,7 @@
          "image":"germany",
          "ip":"192.168.1.1",
          "active":"true",
+         "maynotwork":[],
          "signal":"a"
       },
       {
@@ -40,6 +41,7 @@
          "image":"unitedkingdom",
          "ip":"192.168.1.1",
          "active":"true",
+         "maynotwork":[],
          "signal":"a"
       },
       {
@@ -50,6 +52,7 @@
          "image":"unitedstates",
          "ip":"192.168.1.1",
          "active":"true",
+         "maynotwork":[],
          "signal":"c"
       },
       {
@@ -60,6 +63,7 @@
          "image":"finland",
          "ip":"192.168.1.1",
          "active":"true",
+         "maynotwork":["iran","turkey"],
          "signal":"c"
       },
       {
@@ -70,6 +74,7 @@
          "image":"netherlands",
          "ip":"192.168.1.1",
          "active":"true",
+         "maynotwork":["iran","turkey"],
          "signal":"b"
       },
       {
@@ -80,6 +85,7 @@
          "image":"southkorea",
          "ip":"192.168.1.1",
          "active":"true",
+         "maynotwork":[],
          "signal":"a"
       },
       {
@@ -90,6 +96,7 @@
          "image":"japan",
          "ip":"192.168.1.1",
          "active":"true",
+         "maynotwork":[],
          "signal":"a"
       },
       {
@@ -100,6 +107,7 @@
          "image":"canada",
          "ip":"192.168.1.1",
          "active":"true",
+         "maynotwork":[],
          "signal":"a"
       },
       {
@@ -110,6 +118,7 @@
          "image":"turkey",
          "ip":"192.168.1.1",
          "active":"true",
+         "maynotwork":[],
          "signal":"a"
       },
       {
@@ -120,6 +129,7 @@
          "image":"india",
          "ip":"192.168.1.1",
          "active":"true",
+         "maynotwork":["iran","turkey"],
          "signal":"c"
       },
       {
@@ -130,6 +140,7 @@
          "image":"singapore",
          "ip":"192.168.1.1",
          "active":"true",
+         "maynotwork":["iran"],
          "signal":"c"
       }
    ],
