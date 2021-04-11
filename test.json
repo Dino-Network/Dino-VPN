@@ -3,16 +3,14 @@
    "masterusername":"aaa",
    "masterpassword":"123",
    "minrandom":1,
-   "maxrandom":11,
+   "maxrandom":8,
    "defaultfirstdns":"8.8.8.8",
    "defaultseconddns":"8.8.4.4",
-   "ipinfotokens":"235b180d8b5c59",
-   "Log":"true",
    "update":[
       {
-         "version":"1.040",
+         "version":"1.050",
          "title":"New Version Released!",
-         "description":"Fix Ads Problem.With New App Icon And New Powerful Servers.",
+         "description":"Fixed some problems . added new powerful servers.",
          "size":"10",
          "ForcedUpdate":"false"
       }
@@ -27,19 +25,19 @@
       {
          "id":0,
          "file":0,
-         "city":"Newyork - 1",
-         "country":"unitedstates",
-         "image":"unitedstates",
-         "ip":"134.209.125.19",
+         "city":"Germany",
+         "country":"germany",
+         "image":"germany",
+         "ip":"192.168.1.1",
          "active":"true",
          "signal":"a"
       },
       {
          "id":1,
          "file":1,
-         "city":"Newyork - 2",
-         "country":"unitedstates",
-         "image":"unitedstates",
+         "city":"United Kingdom",
+         "country":"unitedkingdom",
+         "image":"unitedkingdom",
          "ip":"192.168.1.1",
          "active":"true",
          "signal":"a"
@@ -47,39 +45,39 @@
       {
          "id":2,
          "file":2,
-         "city":"San francisco",
+         "city":"United State",
          "country":"unitedstates",
          "image":"unitedstates",
          "ip":"192.168.1.1",
          "active":"true",
-         "signal":"a"
+         "signal":"c"
       },
       {
          "id":3,
          "file":3,
-         "city":"Amesterdam",
-         "country":"netherlands",
-         "image":"netherlands",
+         "city":"Finland",
+         "country":"finland",
+         "image":"finland",
          "ip":"192.168.1.1",
          "active":"true",
-         "signal":"a"
+         "signal":"c"
       },
       {
          "id":4,
          "file":4,
-         "city":"Singapore",
-         "country":"singapore",
-         "image":"singapore",
+         "city":"Netherlands",
+         "country":"netherlands",
+         "image":"netherlands",
          "ip":"192.168.1.1",
          "active":"true",
-         "signal":"a"
+         "signal":"b"
       },
       {
          "id":5,
          "file":5,
-         "city":"London - 1",
-         "country":"unitedkingdom",
-         "image":"unitedkingdom",
+         "city":"South Korea",
+         "country":"southkorea",
+         "image":"southkorea",
          "ip":"192.168.1.1",
          "active":"true",
          "signal":"a"
@@ -87,9 +85,9 @@
       {
          "id":6,
          "file":6,
-         "city":"London - 2",
-         "country":"unitedkingdom",
-         "image":"unitedkingdom",
+         "city":"Japan",
+         "country":"japan",
+         "image":"japan",
          "ip":"192.168.1.1",
          "active":"true",
          "signal":"a"
@@ -97,37 +95,7 @@
       {
          "id":7,
          "file":7,
-         "city":"Frankfurt - 1",
-         "country":"germany",
-         "image":"germany",
-         "ip":"192.168.1.1",
-         "active":"true",
-         "signal":"a"
-      },
-      {
-         "id":8,
-         "file":8,
-         "city":"Frankfurt - 2",
-         "country":"germany",
-         "image":"germany",
-         "ip":"192.168.1.1",
-         "active":"true",
-         "signal":"a"
-      },
-      {
-         "id":9,
-         "file":9,
-         "city":"Frankfurt - 3",
-         "country":"germany",
-         "image":"germany",
-         "ip":"192.168.1.1",
-         "active":"true",
-         "signal":"a"
-      },
-      {
-         "id":10,
-         "file":10,
-         "city":"Toronto",
+         "city":"Canada",
          "country":"canada",
          "image":"canada",
          "ip":"192.168.1.1",
@@ -135,14 +103,34 @@
          "signal":"a"
       },
       {
-         "id":11,
-         "file":11,
-         "city":"istanbul",
-         "country":"undefine",
-         "image":"undefine",
+         "id":8,
+         "file":8,
+         "city":"Turkey",
+         "country":"turkey",
+         "image":"turkey",
          "ip":"192.168.1.1",
          "active":"true",
          "signal":"a"
+      },
+      {
+         "id":9,
+         "file":9,
+         "city":"India",
+         "country":"india",
+         "image":"india",
+         "ip":"192.168.1.1",
+         "active":"true",
+         "signal":"c"
+      },
+      {
+         "id":10,
+         "file":10,
+         "city":"Singapore",
+         "country":"singapore",
+         "image":"singapore",
+         "ip":"192.168.1.1",
+         "active":"true",
+         "signal":"c"
       }
    ],
    "bannertoken":"ca-app-pub-5551681550587699/2769894104",
