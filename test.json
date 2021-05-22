@@ -1,5 +1,6 @@
 {
    "ads":"true",
+   "SoAds":"true",
    "masterusername":"aaa",
    "masterpassword":"123",
    "minrandom":1,
