@@ -1,6 +1,6 @@
 {
    "ads":"true",
-   "SoAds":"true",
+   "SoAds":"false",
    "masterusername":"aaa",
    "masterpassword":"123",
    "minrandom":1,
@@ -65,7 +65,7 @@
          "ip":"192.168.1.1",
          "active":"true",
          "maynotwork":["iran","turkey"],
-         "signal":"c"
+         "signal":"d"
       },
       {
          "id":4,
@@ -76,7 +76,7 @@
          "ip":"192.168.1.1",
          "active":"true",
          "maynotwork":["iran","turkey"],
-         "signal":"b"
+         "signal":"c"
       },
       {
          "id":5,
@@ -98,7 +98,7 @@
          "ip":"192.168.1.1",
          "active":"true",
          "maynotwork":[],
-         "signal":"a"
+         "signal":"b"
       },
       {
          "id":7,
