@@ -58,17 +58,6 @@
       },
       {
          "id":3,
-         "file":3,
-         "city":"Finland",
-         "country":"finland",
-         "image":"finland",
-         "ip":"192.168.1.1",
-         "active":"true",
-         "maynotwork":["iran","turkey"],
-         "signal":"d"
-      },
-      {
-         "id":4,
          "file":4,
          "city":"Netherlands",
          "country":"netherlands",
@@ -79,7 +68,7 @@
          "signal":"c"
       },
       {
-         "id":5,
+         "id":4,
          "file":5,
          "city":"South Korea",
          "country":"southkorea",
@@ -90,18 +79,7 @@
          "signal":"a"
       },
       {
-         "id":6,
-         "file":6,
-         "city":"Japan",
-         "country":"japan",
-         "image":"japan",
-         "ip":"192.168.1.1",
-         "active":"true",
-         "maynotwork":[],
-         "signal":"b"
-      },
-      {
-         "id":7,
+         "id":5,
          "file":7,
          "city":"Canada",
          "country":"canada",
@@ -112,7 +90,7 @@
          "signal":"a"
       },
       {
-         "id":8,
+         "id":6,
          "file":8,
          "city":"Turkey",
          "country":"turkey",
@@ -121,28 +99,6 @@
          "active":"true",
          "maynotwork":[],
          "signal":"a"
-      },
-      {
-         "id":9,
-         "file":9,
-         "city":"India",
-         "country":"india",
-         "image":"india",
-         "ip":"192.168.1.1",
-         "active":"true",
-         "maynotwork":["iran","turkey"],
-         "signal":"c"
-      },
-      {
-         "id":10,
-         "file":10,
-         "city":"Singapore",
-         "country":"singapore",
-         "image":"singapore",
-         "ip":"192.168.1.1",
-         "active":"true",
-         "maynotwork":["iran"],
-         "signal":"c"
       }
    ],
    "bannertoken":"ca-app-pub-5551681550587699/2769894104",
