@@ -47,18 +47,7 @@
       },
       {
          "id":2,
-         "file":2,
-         "city":"United State",
-         "country":"unitedstates",
-         "image":"unitedstates",
-         "ip":"192.168.1.1",
-         "active":"true",
-         "maynotwork":[],
-         "signal":"c"
-      },
-      {
-         "id":3,
-         "file":3,
+         "file":0,
          "city":"Finland",
          "country":"finland",
          "image":"finland",
@@ -68,7 +57,7 @@
          "signal":"d"
       },
       {
-         "id":4,
+         "id":3,
          "file":5,
          "city":"South Korea",
          "country":"southkorea",
@@ -79,18 +68,7 @@
          "signal":"a"
       },
       {
-         "id":5,
-         "file":7,
-         "city":"Canada",
-         "country":"canada",
-         "image":"canada",
-         "ip":"192.168.1.1",
-         "active":"true",
-         "maynotwork":[],
-         "signal":"a"
-      },
-      {
-         "id":6,
+         "id":4,
          "file":8,
          "city":"Turkey",
          "country":"turkey",
