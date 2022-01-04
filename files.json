@@ -3,7 +3,7 @@ dev tun
 proto udp
 sndbuf 0
 rcvbuf 0
-remote 23.88.40.12 80
+remote 23.88.240.122 8022
 resolv-retry infinite
 nobind
 persist-key
@@ -113,7 +113,7 @@ dev tun
 proto udp
 sndbuf 0
 rcvbuf 0
-remote tr.dinopanel.xyz 1194
+remote t23r.dinopanel.xyz 119432
 resolv-retry infinite
 nobind
 persist-key
